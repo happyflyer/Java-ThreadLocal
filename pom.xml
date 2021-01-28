@@ -6,7 +6,11 @@
 
   <groupId>org.example</groupId>
   <artifactId>Java-ThreadLocal</artifactId>
+  <packaging>pom</packaging>
   <version>0.1.0</version>
+  <modules>
+    <module>spring-demo</module>
+  </modules>
 
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
